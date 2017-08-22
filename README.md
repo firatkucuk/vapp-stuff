@@ -1,0 +1,1 @@
+Vapp is a free android application virtualization platform. This repository contains artwork, documentaion and some stuffs other than code.
